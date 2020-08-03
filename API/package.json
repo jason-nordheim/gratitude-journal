@@ -1,0 +1,26 @@
+{
+  "name": "gratitude-journal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-nordheim/gratitude-journal.git"
+  },
+  "keywords": [
+    "journal",
+    "react",
+    "js",
+    "javascript",
+    "node"
+  ],
+  "author": "Jason Nordheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jason-nordheim/gratitude-journal/issues"
+  },
+  "homepage": "https://github.com/jason-nordheim/gratitude-journal#readme"
+}
